@@ -12,5 +12,11 @@
     "face": "i2",
     "quality": "Featured",
     "records": [
+             {
+            "user": "PulseGD",
+            "link": "https://youtu.be/qZ-DL_iCr7w",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
