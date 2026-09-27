@@ -12,5 +12,11 @@
     "face": "m3",
     "quality": "Epic",
     "records": [
+         {
+            "user": "PulseGD",
+            "link": "https://youtu.be/GQ7PN1s7cvs?si=PCDaSNF-HuF8LBlA",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
