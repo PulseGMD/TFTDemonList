@@ -12,5 +12,11 @@
     "face": "ex4",
     "quality": "Legendary",
     "records": [
+            {
+            "user": "m4xy",
+            "link": "https://www.youtube.com/watch?v=4M2Cv7Gqksc",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
