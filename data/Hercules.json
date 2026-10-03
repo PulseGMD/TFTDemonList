@@ -12,5 +12,11 @@
     "face": "h2",
     "quality": "Featured",
     "records": [
+          {
+            "user": "m4xy",
+            "link": "https://www.youtube.com/watch?v=L8mIrBA6A1c",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
