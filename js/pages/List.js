@@ -113,6 +113,9 @@ export default {
                     <div class="og">
                         <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
                     </div>
+                    <div class="oo">
+                        <p class="type-label-md">Creator Leaderboard, and Ranks made by <a href="https://youtube.com/@siz08675?si=JprUfCLLNf5Q0lOG" target="_blank">zis08</a></p>
+                    </div>
                     <template v-if="editors">
                         <h3>List Editors</h3>
                         <ol class="editors">
